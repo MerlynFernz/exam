@@ -4,6 +4,7 @@ public class Waterbill {
 	int num_units;
 	double unit_cost;
 	double bill_amt;
+	double discount;
 
 	
 	Waterbill(String acct_num,int num_units,double unit_cost)
